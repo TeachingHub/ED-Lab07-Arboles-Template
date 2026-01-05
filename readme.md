@@ -8,7 +8,7 @@
 | Profesores    | Sergio Cavero y Salvador Sánchez   |
 | Asignatura    | Estructuras de Datos               |
 | Universidad   | Universidad Rey Juan Carlos        |
-| Curso         | 2024/2025                          |
+| Licencia      | CC BY-NC-SA 4.0                    |
 
 
 <!-- TOC -->
