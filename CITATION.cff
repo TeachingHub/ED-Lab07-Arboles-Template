@@ -4,7 +4,7 @@
 cff-version: 1.2.0
 title: Ejercicios de Árboles en Pascal
 message: >-
-  Estructuras de Datos. Curso 2024-25. Grado en Ingeniería
+  Estructuras de Datos. Grado en Ingeniería
   del Software. Universidad Rey Juan Carlos. 
 type: software
 authors:
@@ -19,7 +19,7 @@ authors:
     affiliation: Universidad Rey Juan Carlos
     email: salvador.sanchez@urjc.es
 repository-code: >-
-  https://github.com/TeachingHub/ED-2025-Laboratorio01-Punteros
+ https://github.com/TeachingHub/ED-Lab07-Arboles-Template/
 abstract: >-
   Enunciados de ejercicios de árboles en Pascal en
   distintos grados de dificultad. Desde problemas más
